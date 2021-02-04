@@ -1,0 +1,7 @@
+name: Wands
+main: me.slayz.wands.Main
+author: SlayZBro
+version: 1.0
+api-version: 1.13
+commands:
+  getwand:

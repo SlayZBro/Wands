@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Wands">
+    <output-path>E:/test/plugins</output-path>
+    <root id="archive" name="Wands.jar">
+      <element id="module-output" name="Wands" />
+    </root>
+  </artifact>
+</component>
